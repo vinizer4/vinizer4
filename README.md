@@ -10,10 +10,12 @@
 
   <p>
     
-     🔥 Javascript Developer Certified Tech Developer Digital House & Rocketseat Ignite
+     🔥 Software Enginerring Student Javascript Developer
+  
+     📚 Studing at Certified Tech Developer Digital House & Rocketseat Ignite
 
-     💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
-
+     💬 Ask me about JavaScript, HTML, CSS, SQL, Node.JS, React, Git
+      
      ⚡ Fun fact **Oneye 😜**
   </p>
   <br>
