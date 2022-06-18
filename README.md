@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vinicius+Teixeira+Saraiva;I'm++JavaScript+Developer;I+from+Brasil,+GO;I+study+Certified+Tech+Developer+at+Digital+House;I+study+Ignite+Rocketseat;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<img align="left" height="680em" src="https://raw.githubusercontent.com/gist/vinizer4/52391cb644a9e12c791d91129508aeec/raw/abb6abe9f17c88cb341c03961838aaa95d703e3c/githubcard.svg"/>
+<img align="left" height="680em" src="https://raw.githubusercontent.com/gist/vinizer4/52391cb644a9e12c791d91129508aeec/raw/c2de309dd4eb151ddb41e6b32f818d4dd0aa4259/githubcard.svg"/>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"
                          height="30px">, I'm Vinicius Teixeira Saraiva</h1>
 <p align="right">  <img src="https://komarev.com/ghpvc/?username=vinizer4&color=yellow" alt="Profile views" /> </p>
