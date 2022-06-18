@@ -2,12 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vinicius+Teixeira+Saraiva;I'm++JavaScript+Developer;I+from+Brasil,+GO;I+study+Certified+Tech+Developer+at+Digital+House;I+study+Ignite+Rocketseat;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<img align="left" height="680em" src="https://raw.githubusercontent.com/gist/vinizer4/52391cb644a9e12c791d91129508aeec/raw/c2de309dd4eb151ddb41e6b32f818d4dd0aa4259/githubcard.svg"/>
+<br>
+<img align="left" height="700em" src="https://raw.githubusercontent.com/gist/vinizer4/52391cb644a9e12c791d91129508aeec/raw/c2de309dd4eb151ddb41e6b32f818d4dd0aa4259/githubcard.svg"/>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"
                          height="30px">, I'm Vinicius Teixeira Saraiva</h1>
 <p align="right">  <img src="https://komarev.com/ghpvc/?username=vinizer4&color=yellow" alt="Profile views" /> </p>
-
-
 
   <p>
     
@@ -17,16 +16,17 @@
 
      ⚡ Fun fact **Oneye 😜**
   </p>
-<br>
+  <br>
 
-<div align="left"> 
- 
-  ⚙️  GitHub Analytics
+ <p align=center>⚙️ &nbsp;GitHub Analytics</p>
+    
+  <br>
   
-  
-  <img width="60%" height="230px" src="https://github-readme-stats.vercel.app/api?username=vinizer4&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Vinicius Teixeira Saraiva github stats" /> 
-  <img width="60%" height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinizer4&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+  <p align="center">
+  <img width="570em" src="https://github-readme-stats.vercel.app/api?username=vinizer4&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Vinicius Teixeira Saraiva github stats" /> 
+  <img width="570em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinizer4&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  </p>
+
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=vinizer4&theme=gotham&hide_border=true&area=true)
 
