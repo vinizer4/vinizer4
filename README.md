@@ -1,13 +1,32 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Vinicius Teixeira Saraiva&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vinicius+Teixeira+Saraiva;I'm++JavaScript+Developer;I+from+Brasil,+GO;I+study+Certified+Tech+Developer+at+Digital+House;I+study+Ignite+Rocketseat;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
+<img align="left" height="680em" src="https://raw.githubusercontent.com/gist/vinizer4/52391cb644a9e12c791d91129508aeec/raw/abb6abe9f17c88cb341c03961838aaa95d703e3c/githubcard.svg"/>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"
+                         height="30px">, I'm Vinicius Teixeira Saraiva</h1>
+<p align="right">  <img src="https://komarev.com/ghpvc/?username=vinizer4&color=yellow" alt="Profile views" /> </p>
+
+
+
+  <p>
+    
+     🔥 Javascript Developer Certified Tech Developer Digital House & Rocketseat Ignite
+
+     💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+
+     ⚡ Fun fact **Oneye 😜**
+  </p>
+
+<br><br>
+
+<div align="left">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vinizer4&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Vinicius Teixeira Saraiva github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinizer4&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=vinizer4&theme=gotham&hide_border=true&area=true)
+
 
 ### Main skills:
 ![JAVASCRIPT](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=yellow&labelColor=0D1117)&nbsp;
