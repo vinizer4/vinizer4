@@ -12,7 +12,7 @@
   
      📚 Studing at Certified Tech Developer Digital House & Rocketseat Ignite
 
-     💬 Ask me about JavaScript, HTML, CSS, SQL, Node.JS, React, Git
+     💬 Ask me about JavaScript, HTML, CSS, SQL, Node.JS, React, Git, TypeScript
       
      ⚡ Fun fact **Oneye 😜**
   </p>
