@@ -19,11 +19,11 @@
   <br>
   <div>
 <p align=center>⚙️ &nbsp;GitHub Analytics</p>
-  <p align="center">
-  <img width="500em" src="https://github-readme-stats.vercel.app/api/username=vinizer4&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Vinicius Teixeira Saraiva github stats" /> 
-  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?/username=vinizer4&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-  </p>
+[![vinizer4 github stats](https://github-readme-stats.vercel.app/api?username=vinizer4&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinizer4&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
   </div>
+  
+ 
 
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=vinizer4&theme=gotham&hide_border=true&area=true)
