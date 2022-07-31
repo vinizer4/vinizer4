@@ -5,7 +5,7 @@
 <img align="right" height="620em" src="https://raw.githubusercontent.com/gist/vinizer4/52391cb644a9e12c791d91129508aeec/raw/c2de309dd4eb151ddb41e6b32f818d4dd0aa4259/githubcard.svg"/>
 </div>
 <br>
-</div>
+<br>
 <div align="left">
 <p>• Hi, I'm Vinicius Teixeira 👋</p>
 <p>• I’m a Software Engineer student. Currently I'm studing at Rocketseat and DigitalHouse. 🚀</p>
