@@ -49,8 +49,8 @@
 <p align="right">  <img src="https://komarev.com/ghpvc/?username=vinizer4&color=green" alt="Profile views" /> </p>
 <div align="center">
     <a href="https://github.com/vinizer4">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vinizer4&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinizer4&layout=compact&langs_count=7&theme=gotham"/>
+    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=vinizer4&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinizer4&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 <br>
 <img border-radius="10px" height="350em" src="https://activity-graph.herokuapp.com/graph?username=vinizer4&theme=gotham&hide_border=true&area=true"/>
