@@ -7,7 +7,7 @@
 
 <p align="right">  <img src="https://komarev.com/ghpvc/?username=vinizer4&color=green" alt="Profile views" /> </p>
 
-<img align="left" height="400em" src="https://raw.githubusercontent.com/gist/vinizer4/52391cb644a9e12c791d91129508aeec/raw/c2de309dd4eb151ddb41e6b32f818d4dd0aa4259/githubcard.svg"/>
+<img align="left" height="550em" src="https://raw.githubusercontent.com/gist/vinizer4/52391cb644a9e12c791d91129508aeec/raw/c2de309dd4eb151ddb41e6b32f818d4dd0aa4259/githubcard.svg"/>
 
 <br>
 
@@ -24,9 +24,8 @@
     <a href="https://github.com/vinizer4">
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=vinizer4&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinizer4&layout=compact&langs_count=7&theme=gotham"/>
-    <img height="230em" width="600" src="https://activity-graph.herokuapp.com/graph?username=vinizer4&theme=gotham&hide_border=true&area=true"/>
-  </div>
-  <div align="center">
+    <img height="250em" width="800" src="https://activity-graph.herokuapp.com/graph?username=vinizer4&theme=gotham&hide_border=true&area=true"/>
+    <div align="center">
     <img align="center" alt="" height="340" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -39,6 +38,7 @@
     <img align="center" alt="" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
     <img align="center" alt="" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
     <img align="center" alt="" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-    
   </div>
+  </div>
+  
 </div>
