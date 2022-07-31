@@ -1,7 +1,7 @@
 <div align="center" padding="5em"> 
 <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vinicius+Teixeira+Saraiva;I'm++JavaScript+Developer;I+from+Brasil,+GO;Certified+Tech+Developer+at+Digital+House;Ignite+Rocketseat;Be+Welcome!+:%29">
 </div>
-<div>
+<div padding="5em">
 <img align="right" height="620em" src="https://raw.githubusercontent.com/gist/vinizer4/52391cb644a9e12c791d91129508aeec/raw/c2de309dd4eb151ddb41e6b32f818d4dd0aa4259/githubcard.svg"/>
 </div>
 <br>
