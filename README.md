@@ -10,7 +10,7 @@
 <p>• Hi, I'm Vinicius Teixeira 👋</p>
 <p>• I’m a Software Engineer student. Currently I'm studing at Rocketseat and DigitalHouse. 🚀</p>
 <p>• My current tools</p>
-<p>• 📲 Front-end Mobile with React Native</p>
+<p>• 📲 Mobile with React Native</p>
 <p>• 🌎 Front-end Web with React</p>
 <p>• 📡 Back-end with Node.js and Java</p>
 <p>• 🛠️ Typescript</p>
@@ -35,6 +35,7 @@
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/spring-original.svg">
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
