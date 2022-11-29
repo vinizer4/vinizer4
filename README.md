@@ -1,5 +1,5 @@
 <div align="center" padding="5em"> 
-<img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vinicius+Teixeira+Saraiva;I'm++JavaScript+Developer;I+from+Brasil,+GO;Certified+Tech+Developer+at+Digital+House;Ignite+Rocketseat;Be+Welcome!+:%29">
+<img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vinicius+Teixeira+Saraiva;I'm++Software+Developer;I+from+Brasil,+GO;Certified+Tech+Developer+at+Digital+House;Ignite+Rocketseat;Be+Welcome!+:%29">
 </div>
 <div >
 
