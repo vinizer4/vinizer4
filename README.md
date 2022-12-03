@@ -22,8 +22,6 @@
 [![Linkedin: vinicius-teixeira-saraiva](https://img.shields.io/badge/-Vinicius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-teixeira-saraiva/)](https://www.linkedin.com/in/vinicius-teixeira-saraiva/)
 [![GitHub: Vinizer4](https://img.shields.io/github/followers/vinizer4?label=follow&style=social)](https://github.com/vinizer4)
 
-
-
 <div style="display: inline_block">
     <strong>SKILLS ⚙️</strong>
     <br>
@@ -52,4 +50,3 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinizer4&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 <br>
-
