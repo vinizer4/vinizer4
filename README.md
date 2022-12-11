@@ -50,7 +50,6 @@
  </div>
  <br>
 <br>
- <img  height="300em" src="https://activity-graph.herokuapp.com/graph?username=vinizer4&theme=gotham&hide_border=true&area=true"/>
 <p align="right">  <img src="https://komarev.com/ghpvc/?username=vinizer4&color=green" alt="Profile views" /> </p>
 <div align="center">
     <a href="https://github.com/vinizer4">
