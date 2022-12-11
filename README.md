@@ -23,7 +23,7 @@
 [![GitHub: Vinizer4](https://img.shields.io/github/followers/vinizer4?label=follow&style=social)](https://github.com/vinizer4)
 
 <div style="display: inline_block" align="center">
-    <strong>SKILLS ⚙️</strong>
+    <strong>🔧 Tool Kit ⚙️</strong>
     <br>
     <br>
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
