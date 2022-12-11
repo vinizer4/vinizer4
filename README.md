@@ -22,7 +22,7 @@
 [![Linkedin: vinicius-teixeira-saraiva](https://img.shields.io/badge/-Vinicius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-teixeira-saraiva/)](https://www.linkedin.com/in/vinicius-teixeira-saraiva/)
 [![GitHub: Vinizer4](https://img.shields.io/github/followers/vinizer4?label=follow&style=social)](https://github.com/vinizer4)
 
-<div style="display: inline_block">
+<div style="display: inline_block" align="center">
     <strong>SKILLS ⚙️</strong>
     <br>
     <br>
@@ -36,6 +36,8 @@
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+    </div>
+    <div style="display: inline_block" align="center">
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
