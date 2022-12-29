@@ -70,7 +70,7 @@
 
 <a href="https://github.com/vinizer4"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinizer4&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true"/></a>
 
-<a href="http://www.github.com/vinizer4"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vinizer4&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vinizer4&theme=Javascript&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <a href="http://www.github.com/vinizer4"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=vinizer4&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
