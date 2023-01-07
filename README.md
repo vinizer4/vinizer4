@@ -8,7 +8,7 @@
 <br>
 <div align="left">
 <p>• Hi, I'm Vinicius Teixeira 👋</p>
-<p>• I’m a Software Engineer student. Currently I'm studing at Rocketseat and DigitalHouse. 🚀</p>
+<p>• I’m a Software Engineer student. Currently I'm studing at Rocketseat and DigitalHouse. 🚀</p> 
 <p>• My current tools 🔧</p>
 <p>• 📲 Mobile with React Native</p>
 <p>• 🌎 Front-end Web with React</p>
