@@ -6,7 +6,9 @@
 </div>
 <br>
 <br>
+
 <div align="left">
+    <img align="right" style="width:16rem; height:auto" src="https://i.pinimg.com/originals/68/6f/61/686f61a923775e73e7d3d08b70be4d6e.gif"/>
 <p>• Hi, I'm Vinicius Teixeira 👋</p>
 <p>• I’m a Software Engineer student. Currently I'm studing at Rocketseat and DigitalHouse. 🚀</p>
 <p>• My current tools 🔧</p>
