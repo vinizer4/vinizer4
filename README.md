@@ -62,8 +62,6 @@
 <!--  <img  height="300em" src="https://activity-graph.herokuapp.com/graph?username=vinizer4&theme=gotham&hide_border=true&area=true"/> -->
 <br>
 
-<b>My GitHub Stats</b>
-
 <p align="right">  <img src="https://komarev.com/ghpvc/?username=vinizer4&color=green" alt="Profile views" /> </p>
 <!-- 
 <a href="https://github.com/vinizer4"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinizer4&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/></a>
