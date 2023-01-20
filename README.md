@@ -10,7 +10,7 @@
 <div align="left" >
 <!--     <img align="right" style="width:25vh; height:auto" src="https://i.pinimg.com/originals/68/6f/61/686f61a923775e73e7d3d08b70be4d6e.gif"/> -->
     <img align="right" style="width:25vh; height:auto" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif"/>
-    
+<br>
 <p>• Hi, I'm Vinicius Teixeira 👋</p>
 <p>• I’m a Software Developer ⚡</p>
 <p>• My current tools 🔧</p>
