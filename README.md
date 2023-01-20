@@ -82,8 +82,12 @@
 
 <!-- <a href="http://www.github.com/vinizer4"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vinizer4&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
 
-<a href="http://www.github.com/vinizer4"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=vinizer4&bg_color=f7df1e&color=000000&line=3382ed&point=000000&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a  href="http://www.github.com/vinizer4"><img style="width:100%; height:auto" src="https://github-readme-activity-graph.cyclic.app/graph?username=vinizer4&bg_color=f7df1e&color=000000&line=3382ed&point=000000&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <!-- <a href="https://github.com/vinizer4"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinizer4&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/></a> -->
 
 <br>
+
+<img align="left" style="width:100vh  height:150vh" src="https://media.giphy.com/media/xTiIzuuQqb1fycYLTi/giphy.gif"/>
+
+
