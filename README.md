@@ -22,6 +22,8 @@
 <p>• I consider myself a dynamic professional who seeks to learn about everything, being proactive and curious, I try to develop myself in a self-taught and autonomous way.<br> I believe that a developer's main skill is not mastery of a specific technology, but the ability to easily solve problems, find the answers, and quickly adapt to a situation.</p>
 </div>
 
+My portfolio 🗂️: https://portfolio-vinizer4.vercel.app
+
 [![Gmail](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Astephanyn7%40gmail.com)](mailto:vinicius.ts.online@gmail.com)
 [![Linkedin: vinicius-teixeira-saraiva](https://img.shields.io/badge/-Vinicius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-teixeira-saraiva/)](https://www.linkedin.com/in/vinicius-teixeira-saraiva/)
 [![GitHub: Vinizer4](https://img.shields.io/github/followers/vinizer4?label=follow&style=social)](https://github.com/vinizer4)
