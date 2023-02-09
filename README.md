@@ -12,7 +12,7 @@
     <img align="right" style="width:25vh; height:auto" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif"/>
 <br>
 <p>• Hi, I'm Vinicius Teixeira 👋</p>
-<p>• I’m a Software Developer ⚡</p>
+<p>• I’m a FullStack Software Developer ⚡</p>
 <p>• My current tools 🔧</p>
 <p>• 📲 Mobile with React Native</p>
 <p>• 🌎 Front-end Web with React</p>
