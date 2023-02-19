@@ -11,7 +11,7 @@
 <!--     <img align="right" style="width:25vh; height:auto" src="https://i.pinimg.com/originals/68/6f/61/686f61a923775e73e7d3d08b70be4d6e.gif"/> -->
     <img align="right" style="width:25vh; height:auto" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif"/>
 <br>
-<p>• Hi, I'm Vinicius Teixeira👋</p>
+<p>• Hi, I'm Vinicius Teixeira Saraiva</p>
 <p>• I’m a FullStack Software Developer ⚡</p>
 <p>• My current tools 🔧</p>
 <p>• 📲 Mobile with React Native</p>
@@ -19,7 +19,7 @@
 <p>• 📡 Back-end with Node.js and Java</p>
 <p>• 🛠️ TypeScript | JavaScript | Java </p>
 <p>• 🧰 And more..</p>
-<p>• I consider myself a dynamic professional who seeks to learn about everything, being proactive and curious, I try to develop myself in a self-taught and autonomous way.<br> I believe that a developer's main skill is not mastery of a specific technology, but the ability to easily solve problems, find the answers, and quickly adapt to a situation.</p>
+<p>• I consider myself a dynamic professional who seeks to learn about everything, being proactive and curious, I try to develop myself in a self-taught and autonomous way.<br> I believe that a developer's main skill is notttt mastery of a specific technology, but the ability to easily solve problems, find the answers, and quickly adapt to a situation.</p>
 </div>
 
 My portfolio 🗂️: https://portfolio-vinizer4.vercel.app
