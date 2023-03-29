@@ -50,14 +50,21 @@ My portfolio 🗂️: https://portfolio-vinizer4.vercel.app
     </div>
     <br>
     <div style="display: inline_block" align="center">
-    <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+    </div>
+    <br>
+    <div style="display: inline_block" align="center">
+    <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
+    <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg">
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+    <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
+    <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg">
     </div>
     <br>
 <!--     <div style="display: inline_block" align="center">
