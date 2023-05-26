@@ -97,9 +97,9 @@ My portfolio 🗂️: https://portfolio-vinizer4.vercel.app
 
 <!-- <a href="http://www.github.com/vinizer4"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vinizer4&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
 
-<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-<a  href="http://www.github.com/vinizer4"><img style="width:100%; height:auto" src="https://github-readme-activity-graph.cyclic.app/graph?username=vinizer4&bg_color=f7df1e&color=000000&line=3382ed&point=000000&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
+<!-- <a  href="http://www.github.com/vinizer4"><img style="width:100%; height:auto" src="https://github-readme-activity-graph.cyclic.app/graph?username=vinizer4&bg_color=f7df1e&color=000000&line=3382ed&point=000000&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
 <br>
 
