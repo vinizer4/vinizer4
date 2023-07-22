@@ -1,15 +1,10 @@
-<div align="center" padding="5em"> 
+<!-- <div align="center" padding="5em"> 
 <img src="https://readme-typing-svg.herokuapp.com/?color=FFFC33&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vinicius+Teixeira+Saraiva;I'm++Software+Developer;I+from+Brasil,+GO;Certified+Tech+Developer+at+Digital+House;Ignite+Rocketseat;Be+Welcome!+:%29">
-</div>
-<div >
-
-</div>
-<br>
-<br>
+</div> -->
 
 <div align="left" >
 <!--     <img align="right" style="width:25vh; height:auto" src="https://i.pinimg.com/originals/68/6f/61/686f61a923775e73e7d3d08b70be4d6e.gif"/> -->
-    <img align="right" style="width:25vh; height:auto" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif"/>
+<!--    <img align="right" style="width:25vh; height:auto" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif"/> -->
 <br>
 <p>• Hi, I'm Vinicius Teixeira Saraiva 🤙</p>
 <p>• I’m a FullStack Software Developer ⚡</p>
