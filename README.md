@@ -14,7 +14,7 @@
 <p>• 📡 Back-end with Node.js, Java, Python</p>
 <p>• 🛠️ TypeScript | JavaScript | Java | Python</p>
 <p>• 🧰 And more..</p>
-<p>• I consider myself a dynamic professional who seeks to learn about everything, being proactive and curious, I try to develop myself in a self-taught and autonomous way.<br> I believe that a developer's main skill is notttt mastery of a specific technology, but the ability to easily solve problems, find the answers, and quickly adapt to a situation.</p>
+<p>• I consider myself a dynamic professional who seeks to learn about everything, being proactive and curious, I try to develop myself in a self-taught and autonomous way.<br> I believe that a developer's main skill is not mastery of a specific technology, but the ability to easily solve problems, find the answers, and quickly adapt to a situation.</p>
 </div>
 
 My portfolio 🗂️: https://portfolio-vinizer4.vercel.app
