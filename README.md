@@ -10,7 +10,7 @@
 <p>• I’m a FullStack Software Developer ⚡</p>
 <p>• My current tools 🔧</p>
 <p>• 📲 Mobile with React Native</p>
-<p>• 🌎 Front-end Web with React and Angular</p>
+<p>• 🌎 Front-end Web with React</p>
 <p>• 📡 Back-end with Node.js, Java, Python</p>
 <p>• 🛠️ TypeScript | JavaScript | Java | Python</p>
 <p>• 🧰 And more..</p>
