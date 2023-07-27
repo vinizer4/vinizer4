@@ -85,7 +85,7 @@ My portfolio 🗂️: https://portfolio-vinizer4.vercel.app
 
 <a href="https://github.com/vinizer4"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinizer4&show_icons=true&hide=&count_private=true&&bg_color=f7df1e&title_color=000000&text_color=000000&hide_border=true&show_icons=true"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinizer4&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=12&bg_color=000000&title_color=FFFC33&text_color=f7df1e&hide_border=true)](https://github.com/vinizer4/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinizer4&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=10&bg_color=000000&title_color=FFFC33&text_color=f7df1e&hide_border=true)](https://github.com/vinizer4/github-readme-stats)
 
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vinizer4&theme=Javascript&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
