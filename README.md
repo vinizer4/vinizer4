@@ -7,13 +7,13 @@
 <!--    <img align="right" style="width:25vh; height:auto" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif"/> -->
 <br>
 <p>• Hi, I'm Vinicius Teixeira Saraiva 🤙</p>
-<p>• I’m a FullStack Software Developer ⚡</p>
-<p>• My current tools 🔧</p>
+<p>• I’m a Software Developer ⚡</p>
+<!-- <p>• My current tools 🔧</p>
 <p>• 📲 Mobile with React Native</p>
 <p>• 🌎 Front-end Web with React</p>
 <p>• 📡 Back-end with Node.js, Java, Python</p>
 <p>• 🛠️ TypeScript | JavaScript | Java | Python</p>
-<p>• 🧰 And more..</p>
+<p>• 🧰 And more..</p> -->
 <p>• I consider myself a dynamic professional who seeks to learn about everything, being proactive and curious, I try to develop myself in a self-taught and autonomous way.<br> I believe that a developer's main skill is not mastery of a specific technology, but the ability to easily solve problems, find the answers, and quickly adapt to a situation.</p>
 </div>
 
@@ -73,7 +73,7 @@ My portfolio 🗂️: https://portfolio-vinizer4.vercel.app
 <!--  <img  height="300em" src="https://activity-graph.herokuapp.com/graph?username=vinizer4&theme=gotham&hide_border=true&area=true"/> -->
 <br>
 
-<p align="right">  <img src="https://komarev.com/ghpvc/?username=vinizer4&color=green" alt="Profile views" /> </p>
+<!--<p align="right">  <img src="https://komarev.com/ghpvc/?username=vinizer4&color=green" alt="Profile views" /> </p> -->
 <!-- 
 <a href="https://github.com/vinizer4"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinizer4&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/></a>
 
