@@ -23,7 +23,7 @@ My portfolio 🗂️: https://portfolio-vinizer4.vercel.app
 [![Linkedin: vinicius-teixeira-saraiva](https://img.shields.io/badge/-Vinicius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-teixeira-saraiva/)](https://www.linkedin.com/in/vinicius-teixeira-saraiva/)
 [![GitHub: Vinizer4](https://img.shields.io/github/followers/vinizer4?label=follow&style=social)](https://github.com/vinizer4)
 
-<div style="display: inline_block" align="center">
+<!--- <div style="display: inline_block" align="center">
     <strong>🔧 Tool Kit ⚙️</strong>
     <br>
     <br>
@@ -84,9 +84,9 @@ My portfolio 🗂️: https://portfolio-vinizer4.vercel.app
 
 <a href="http://www.github.com/vinizer4"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=vinizer4&theme=merko" alt="GitHub Commits Graph" /></a> --> 
 
-<a href="https://github.com/vinizer4"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinizer4&show_icons=true&count_private=true&count_public=true&bg_color=f7df1e&title_color=000000&text_color=000000&hide_border=true&show_icons=true"/></a>
+<!-- <a href="https://github.com/vinizer4"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinizer4&show_icons=true&count_private=true&count_public=true&bg_color=f7df1e&title_color=000000&text_color=000000&hide_border=true&show_icons=true"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinizer4&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=10&bg_color=000000&title_color=FFFC33&text_color=f7df1e&hide_border=true)](https://github.com/vinizer4/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinizer4&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=10&bg_color=000000&title_color=FFFC33&text_color=f7df1e&hide_border=true)](https://github.com/vinizer4/github-readme-stats) -->
 
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vinizer4&theme=Javascript&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
