@@ -72,8 +72,6 @@ My portfolio 🗂️: https://portfolio-vinizer4.vercel.app
  </div> -->
  <br>
 <!--  <img  height="300em" src="https://activity-graph.herokuapp.com/graph?username=vinizer4&theme=gotham&hide_border=true&area=true"/> -->
-<br>
-
 <!--<p align="right">  <img src="https://komarev.com/ghpvc/?username=vinizer4&color=green" alt="Profile views" /> </p> -->
 <!-- 
 <a href="https://github.com/vinizer4"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinizer4&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/></a>
@@ -98,8 +96,6 @@ My portfolio 🗂️: https://portfolio-vinizer4.vercel.app
 
 
 <!-- <a  href="http://www.github.com/vinizer4"><img style="width:100%; height:auto" src="https://github-readme-activity-graph.cyclic.app/graph?username=vinizer4&bg_color=f7df1e&color=000000&line=3382ed&point=000000&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
-
-<br>
 
 <img align="left" style="width:100vh  height:150vh" src="https://media.giphy.com/media/xTiIzuuQqb1fycYLTi/giphy.gif"/>
 
