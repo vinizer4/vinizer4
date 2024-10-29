@@ -18,7 +18,10 @@
 </div>
 
 My portfolio 🗂️: https://portfolio-vinizer4.vercel.app
-
+<br>
+Leetcode Profile ⌨️: https://leetcode.com/u/vinizer4/
+<br>
+<br>
 [![Gmail](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Astephanyn7%40gmail.com)](mailto:vinicius.ts.online@gmail.com)
 [![Linkedin: vinicius-teixeira-saraiva](https://img.shields.io/badge/-Vinicius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-teixeira-saraiva/)](https://www.linkedin.com/in/vinicius-teixeira-saraiva/)
 [![GitHub: Vinizer4](https://img.shields.io/github/followers/vinizer4?label=follow&style=social)](https://github.com/vinizer4)
