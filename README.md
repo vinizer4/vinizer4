@@ -70,7 +70,7 @@ Leetcode Profile ⌨️: https://leetcode.com/u/vinizer4/
 
 <p align="left">  <img src="https://komarev.com/ghpvc/?username=vinizer4&color=green" alt="Profile views" /> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinizer4&layout=compact&theme=github_dark&langs_count=8&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinizer4&layout=compact&theme=github_dark&langs_count=8&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinizer4&theme=github_dark&show_icons=true)
 
 
