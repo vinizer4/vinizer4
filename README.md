@@ -72,6 +72,3 @@ Leetcode Profile ⌨️: https://leetcode.com/u/vinizer4/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinizer4&layout=compact&theme=github_dark&langs_count=8&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinizer4&theme=github_dark&show_icons=true)
-
-
-<a href="http://www.github.com/vinizer4"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vinizer4&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
