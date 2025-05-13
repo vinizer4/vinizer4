@@ -1,30 +1,44 @@
-<!-- <div align="center" padding="5em"> 
-<img src="https://readme-typing-svg.herokuapp.com/?color=FFFC33&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vinicius+Teixeira+Saraiva;I'm++Software+Developer;I+from+Brasil,+GO;Certified+Tech+Developer+at+Digital+House;Ignite+Rocketseat;Be+Welcome!+:%29">
-</div> -->
-
 <div align="left" >
-<!--     <img align="right" style="width:25vh; height:auto" src="https://i.pinimg.com/originals/68/6f/61/686f61a923775e73e7d3d08b70be4d6e.gif"/> -->
-<!--    <img align="right" style="width:25vh; height:auto" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif"/> -->
+
 <br>
 <p>• Hi, I'm Vinicius Teixeira Saraiva 🤙</p>
 <p>• I’m a Software Developer ⚡</p>
-<!-- <p>• My current tools 🔧</p>
-<p>• 📲 Mobile with React Native</p>
-<p>• 🌎 Front-end Web with React</p>
-<p>• 📡 Back-end with Node.js, Java, Python</p>
-<p>• 🛠️ TypeScript | JavaScript | Java | Python</p>
-<p>• 🧰 And more..</p> -->
-<p>• I consider myself a dynamic professional who seeks to learn about everything, being proactive and curious, I try to develop myself in a self-taught and autonomous way.<br> I believe that a developer's main skill is not mastery of a specific technology, but the ability to easily solve problems, find the answers, and quickly adapt to a situation.</p>
-</div>
 
-My portfolio 🗂️: https://portfolio-vinizer4.vercel.app
-<br>
-Leetcode Profile ⌨️: https://leetcode.com/u/vinizer4/
-<br>
-<br>
-[![Gmail](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Astephanyn7%40gmail.com)](mailto:vinicius.ts.online@gmail.com)
-[![Linkedin: vinicius-teixeira-saraiva](https://img.shields.io/badge/-Vinicius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-teixeira-saraiva/)](https://www.linkedin.com/in/vinicius-teixeira-saraiva/)
-[![GitHub: Vinizer4](https://img.shields.io/github/followers/vinizer4?label=follow&style=social)](https://github.com/vinizer4)
+#### 🧑‍💻 About Me:
+
+Hi there! I'm a developer with experience across multiple technologies, having worked on complex and challenging projects as both a **frontend** and **backend** engineer. I focus on **building high-quality, scalable, and robust systems** using **clean architectures** and best practices. I ensure systems are reliable by applying rigorous **unit tests, integration tests, and end-to-end tests**.
+
+I believe the key skill of a developer is not just the ability to master a specific technology, but the ability to **solve problems effectively**, **learn quickly**, and **adapt to new challenges.** My goal is to optimize systems and user journeys while creating solutions that meet customer needs and drive product success.
+
+---
+
+#### 🛠️ Technologies I Work With: 
+
+- **Languages**: Java, Kotlin, Python, Go, TypeScript.  
+- **Frameworks**: Spring Boot, React, Django, Node.  
+- **Testing**: Sonar, JUnit, Mockito, Spock (Groovy), Jest, Testcontainers.  
+- **Architectures**: Clean Architecture, Hexagonal Architecture, Domain-Driven Design (DDD), C4 Model, SOLID Principles, Design Patterns.  
+- **Databases**: PostgreSQL, MySQL, MongoDB.  
+- **Cloud**: AWS (EC2, S3, Glue, Secrets Manager), GCP (BigQuery).  
+- **DevOps**: Terraform, CI/CD (GitHub Actions), Docker, Kubernetes.  
+- **Message Queues**: RabbitMQ, Apache Kafka.  
+- **Observability**: Monitoring with New Relic.  
+
+---
+
+#### 🔎 What Drives Me:
+
+I enjoy crafting efficient solutions, understanding the pain points of users, and building software that makes an impact. Whether it's optimizing performance, improving user experiences, or architecting scalable systems, I'm driven by the challenge of creating innovative products.
+
+---
+
+### 📂 Portfolio & Profiles:
+- **🌐 Portfolio**: [Portfolio Website](https://portfolio-vinizer4.vercel.app)  
+- **🚀 Leetcode**: [Leetcode Profile](https://leetcode.com/u/vinizer4/)  
+- **💼 LinkedIn**: [Vinicius Teixeira Saraiva](https://www.linkedin.com/in/vinicius-teixeira-saraiva/)  
+- **📧 Email**: [vinicius.ts.online@gmail.com](mailto:vinicius.ts.online@gmail.com)  
+
+---
 
 <div style="display: inline_block" align="center">
     <strong>Languages ​​and tools</strong>
@@ -74,3 +88,6 @@ Leetcode Profile ⌨️: https://leetcode.com/u/vinizer4/
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinizer4&theme=github_dark&show_icons=true)
 
 <img align="left" style="width:100vh  height:150vh" src="https://media.giphy.com/media/xTiIzuuQqb1fycYLTi/giphy.gif"/>
+
+<div align="center">
+  
