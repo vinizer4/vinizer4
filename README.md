@@ -1,8 +1,8 @@
 <div align="left" >
 
 <br>
-<p>• Hi, I'm Vinicius Teixeira Saraiva 🤙</p>
-<p>• I’m a Software Developer ⚡</p>
+<h1>Hi, I'm Vinicius Teixeira Saraiva 🤙</h1>
+<h2>I’m a Software Developer ⚡</h2>
 
 #### 🧑‍💻 About Me:
 
