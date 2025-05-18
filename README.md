@@ -40,7 +40,7 @@ I enjoy crafting efficient solutions, understanding the pain points of users, an
 
 ---
 
-<div style="display: inline_block" align="center">
+<!-- <div style="display: inline_block" align="center">
     <strong>Languages ​​and tools</strong>
     <br>
     <br>
@@ -80,7 +80,7 @@ I enjoy crafting efficient solutions, understanding the pain points of users, an
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/googlecloud/googlecloud-original.svg">
     </div>
     <br>
- <br>
+ <br> -->
 
 <p align="left">  <img src="https://komarev.com/ghpvc/?username=vinizer4&color=green" alt="Profile views" /> </p>
 
