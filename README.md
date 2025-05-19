@@ -1,7 +1,5 @@
 <div align="left" >
-
-<br>
-<h1>Hi, I'm Vinicius Teixeira Saraiva 🤙</h1>
+<h1>Hi, I'm Vinicius Teixeira Saraiva</h1>
 <h2>I’m a Software Developer ⚡</h2>
 
 #### 🧑‍💻 About Me:
