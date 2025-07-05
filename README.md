@@ -34,7 +34,7 @@ I enjoy crafting efficient solutions, understanding the pain points of users, an
 - **🌐 Portfolio**: [Portfolio Website](https://portfolio-vinizer4.vercel.app)  
 - **🚀 Leetcode**: [Leetcode Profile](https://leetcode.com/u/vinizer4/)  
 - **💼 LinkedIn**: [Vinicius Teixeira Saraiva](https://www.linkedin.com/in/vinicius-teixeira-saraiva/)  
-- **📧 Email**: [vinicius.ts.online@gmail.com](mailto:vinicius.ts.online@gmail.com)  
+- **📧 Email**: [vteixeirasaraiva@gmail.com](mailto:vteixeirasaraiva@gmail.com)  
 
 ---
 
