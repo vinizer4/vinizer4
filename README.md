@@ -82,8 +82,9 @@ I enjoy crafting efficient solutions, understanding the pain points of users, an
 
 <p align="left">  <img src="https://komarev.com/ghpvc/?username=vinizer4&color=green" alt="Profile views" /> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinizer4&layout=compact&theme=github_dark&langs_count=8&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinizer4&layout=compact&theme=github_dark&langs_count=8&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinizer4&theme=github_dark&show_icons=true)
+-->
 
 <img align="left" style="width:100vh  height:150vh" src="https://media.giphy.com/media/xTiIzuuQqb1fycYLTi/giphy.gif"/>
 
